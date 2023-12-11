@@ -1,0 +1,21 @@
+
+h1{
+    color: blue;
+}
+.para1{
+    color: gray;
+}
+.para2{
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.container{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    padding: 15px 10px;
+    border: 5px solid red;
+    margin: 15px;
+} 
